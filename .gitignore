@@ -1,0 +1,13 @@
+#### ignored by GitHub!
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.vscode/
+.env
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
